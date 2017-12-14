@@ -1,0 +1,18 @@
+This codebase is not complete, here is a list of things the user must do to get it working.
+It was the SRC folder from the Actual Dragonball: The Forsaken Future Codebase, copied over
+SRC Folder from DBSC 2.5.2.. Pretty much the exact exact same codebase, but none of the Areas
+or anything, just all of the new Skills and Races and a Better Ranking system for all the
+races done in XML Code.
+
+1. Go through Fierian, Hylian, Reploid, and any other skill sets, and 
+   add the appropriet entries in skills.dat.
+
+2. Another big thing are the Classes and Race entries for each, these can just
+   be added in for now in the Race and Class folders and setup Online.
+
+3. That should be about it for now, besides following the windows install text.
+   and fixing any random bugs that popup, it is smaug...
+
+
+
+-Arbin

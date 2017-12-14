@@ -1,0 +1,12 @@
+Unable to open area list
+Unable to open area list
+Unable to open area list
+Unable to open area list
+Unable to open area list
+Unable to open area list
+Unable to open area list
+Unable to open area list
+[*****] [*****] FILE: ../area/geros_lab.are LINE: 1121
+[*****] [*****] FILE: ../area/geros_lab.are LINE: 1131
+[*****] [*****] FILE: ../area/geros_lab.are LINE: 1132
+[*****] [*****] FILE: ../area/castlevegeta.are LINE: 4635
